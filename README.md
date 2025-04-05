@@ -1,2 +1,38 @@
-# Smart-Agriculture-using-ESP8266-iot
-Smart Agriculture Using ESP8266 and IoT is a technology-driven solution for precision farming. It utilizes an ESP8266 microcontroller to monitor environmental conditions using a capacitive soil moisture sensor and a DHT11 temperature &amp; humidity sensor. Data is displayed on an OLED screen for local visualization and transmitted via Blynk IoT alerts.
+# 🌱 Smart Agriculture Using ESP8266 and IoT
+
+## 📌 Project Overview
+This project enables **precision farming** with **ESP8266**, integrating:
+- **Capacitive Soil Moisture Sensor** for soil analysis
+- **DHT11 Temperature & Humidity Sensor** for environmental monitoring
+- **OLED Display** for local data visualization
+- **Blynk IoT** platform for real-time mobile alerts
+- **Automated Irrigation Control** based on sensor readings
+
+## 🔧 Hardware Components
+- ESP8266 Wi-Fi Module
+- Capacitive Soil Moisture Sensor
+- DHT11 Temperature & Humidity Sensor
+- OLED Display (128x64)
+- Relay Module (for irrigation control)
+- Water Pump (optional)
+- Jumper wires & power source
+
+## 🛠️ Software & Setup
+1. **Install Arduino IDE** & add ESP8266 board support.
+2. **Required Libraries**:
+   - `ESP8266WiFi.h`
+   - `BlynkSimpleEsp8266.h`
+   - `Wire.h` for OLED display
+   - `Adafruit_GFX.h` & `Adafruit_SSD1306.h`
+3. **Blynk Setup**:
+   - Create a new Blynk project.
+   - Add widgets for sensor data.
+   - Obtain **Auth Token** for ESP8266.
+
+## 🚀 Features
+- 📡 **IoT Connectivity:** ESP8266 sends sensor data to the Blynk app.
+- 📊 **Live Monitoring:** Visualize soil moisture & environmental conditions.
+- 🔔 **Alerts & Automation:** Trigger mobile alerts for low soil moisture.
+- 💧 **Smart Irrigation:** Control water pump based on sensor thresholds.
+
+## 🖥️ Code Structure
