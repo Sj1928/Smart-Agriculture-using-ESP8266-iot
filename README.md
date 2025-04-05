@@ -36,3 +36,16 @@ This project enables **precision farming** with **ESP8266**, integrating:
 - 💧 **Smart Irrigation:** Control water pump based on sensor thresholds.
 
 ## 🖥️ Code Structure
+
+## 📖 Usage Guide
+1. Upload the code to ESP8266.
+2. Connect sensors as per wiring diagram.
+3. Open **Blynk app** to monitor live data.
+4. Adjust **moisture thresholds** for irrigation.
+
+## 📜 License
+This project is open-source under the **MIT License**. Feel free to modify and enhance!
+
+---
+
+**🔗 Want to contribute?** Fork the repo, make improvements, and submit a PR! Happy coding! 🚜💡
