@@ -7,6 +7,13 @@ This project enables **precision farming** with **ESP8266**, integrating:
 - **OLED Display** for local data visualization
 - **Blynk IoT** platform for real-time mobile alerts
 - **Automated Irrigation Control** based on sensor readings
+![IMG_20241121_125145330](https://github.com/user-attachments/assets/15872994-86a2-4cd9-a57e-761a6d910bf3)
+![IMG_20241121_125113243](https://github.com/user-attachments/assets/ef274ec3-57b1-4bfd-9d78-4d77dd50fbaf)
+![IMG_20241121_024014393](https://github.com/user-attachments/assets/a6374778-82f0-4e47-bec3-bc161cd0e2d8)
+
+
+https://github.com/user-attachments/assets/66b607c2-825a-4f91-9109-9b897455d5e8
+
 
 ## 🔧 Hardware Components
 - ESP8266 Wi-Fi Module
