@@ -14,7 +14,9 @@ This project enables **precision farming** with **ESP8266**, integrating:
 ![IMG_20241121_024014393](https://github.com/user-attachments/assets/a6374778-82f0-4e47-bec3-bc161cd0e2d8)
                      Data Visualisation
 
-https://github.com/user-attachments/assets/51970c74-5513-432e-9184-5879e3ce3f79
+
+
+https://github.com/user-attachments/assets/8fb90b0f-8a26-4a81-a559-775f97889c65
 Real time Working of sensors
 
 
